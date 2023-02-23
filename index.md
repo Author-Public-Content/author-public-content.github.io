@@ -6,5 +6,7 @@ This website publishes multimedia content that is donated by the authors to the 
 
 ![Oeno](https://github.com/Author-Public-Content/author-public-content.github.io/raw/main/assets/img/Seizo-ONOE_NTT-DOCOMO-web.png)
 
+![Wiegand](https://github.com/Author-Public-Content/author-public-content.github.io/raw/main/assets/img/thomas-wiegand.jpg)
+
 License: CC0 1.0 Universal
 
