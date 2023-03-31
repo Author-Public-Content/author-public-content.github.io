@@ -8,7 +8,7 @@ This website publishes multimedia content that is donated by the authors to the 
 
 ![Wiegand](https://github.com/Author-Public-Content/author-public-content.github.io/raw/main/assets/img/thomas-wiegand.jpg)
 
-![Campos](https://github.com/Author-Public-Content/author-public-content.github.io/raw/main/assets/img/Simao-Campos-emmy.png)
+![Campos](https://github.com/Author-Public-Content/author-public-content.github.io/raw/main/assets/img/Simao_Campos-emmy.png)
 
 License: CC0 1.0 Universal
 
