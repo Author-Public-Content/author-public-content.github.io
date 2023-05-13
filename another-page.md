@@ -2,8 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## UN graphics
 
-_yay_
+Licensed CC BY 4.0.
 
-[back](./)
